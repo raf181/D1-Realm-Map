@@ -1,0 +1,1 @@
+xcopy /s /e /h /i /y world "%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang"
