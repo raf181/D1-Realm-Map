@@ -1,5 +1,6 @@
 # D1-Realm-Map
-Copia del mundo D1 Fecha: 1/10/2023
+<<<<<<< HEAD
+Copia del mundo D1 Fecha: 1/14/2023
 
 1. win + r
 2. %localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
